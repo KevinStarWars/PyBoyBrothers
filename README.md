@@ -2,15 +2,6 @@
 
 It is highly recommended to read the [report](https://github.com/Baekalfen/PyBoy/raw/master/PyBoy.pdf) to get a light introduction to Game Boy emulation. The report is relevant, eventhough you want to contribute to another emulator, or create your own.
 
-If you've read the report and want more explicit details, have a look at the [Pan Docs](http://bgb.bircd.org/pandocs.htm).
-
-<p align="center">
-<img src="https://github.com/Baekalfen/PyBoy/raw/master/README/1.gif" width="320">
-<img src="https://github.com/Baekalfen/PyBoy/raw/master/README/2.gif" width="316"><br>
-<img src="https://github.com/Baekalfen/PyBoy/raw/master/README/3.gif" width="316">
-<img src="https://github.com/Baekalfen/PyBoy/raw/master/README/4.gif" width="320">
-</p>
-
 Table of Contents
 =================
 * [Abstract](#abstract)
